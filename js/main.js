@@ -9,7 +9,7 @@ let ulLista = document.getElementById('ul_item')
 console.log(ulLista);
 
 //inizializzo la variabile a 0
-i = 0 ;
+let i = 0 ;
 
 //? creo un ciclo while e metto la sua condizione (i < listshopping.lenght)
 //? quindi porta i alla lunhezza massima degli elementi dall'array
